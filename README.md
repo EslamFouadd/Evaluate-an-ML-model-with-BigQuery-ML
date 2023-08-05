@@ -18,3 +18,6 @@ Use a machine learning model in BigQuery
 
 # Model information & training statistics
 ![SampleModel](https://github.com/EslamFouadd/Evaluate-an-ML-model-with-BigQuery-ML/assets/77150715/62b73136-2f2b-4a5b-b90e-a6e9b5f216b5)
+
+# Predictions
+<img width="409" alt="prediction" src="https://github.com/EslamFouadd/Evaluate-an-ML-model-with-BigQuery-ML/assets/77150715/6ee2907c-aaca-4ac4-9700-75ef05523cc2">
