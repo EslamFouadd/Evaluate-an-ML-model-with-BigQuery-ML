@@ -15,3 +15,6 @@ Create a machine learning model in BigQuery
 Evaluate a machine learning model in BigQuery
 
 Use a machine learning model in BigQuery
+
+# Model information & training statistics
+![SampleModel](https://github.com/EslamFouadd/Evaluate-an-ML-model-with-BigQuery-ML/assets/77150715/62b73136-2f2b-4a5b-b90e-a6e9b5f216b5)
